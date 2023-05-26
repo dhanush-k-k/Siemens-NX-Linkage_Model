@@ -1,6 +1,6 @@
 # Linkage Model Siemens NX - Testing Design Intent and Extent of Design Iterations 
 
-### _Developer_
+## _Developer_
 Dhanush Kumar
 
 ## _Objective_
